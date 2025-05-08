@@ -7,14 +7,14 @@
 
 ---
 
-🔭 I’m currently working on **Prompt Engineering**  
+👨‍🎓 **MSc Artificial Intelligence @ Teesside University (UK)**
+🔭 I’m currently working on **Prompt Engineering**
 📚 I’m currently learning more about **LLM apps & real-world deployment strategies**  
 🧠 Writing a blog series: [A 5-Week Learning Adventure: Exploring the World of Prompt Engineering](https://146140648.hs-sites-eu1.com/blog/a-5-week-learning-adventure-exploring-the-world-of-prompt-engineering)  
 🤝 I’m looking to collaborate on **real-world AI projects, LLM tools, and NLP applications**  
 💬 Ask me about **Python, TensorFlow, Prompt Engineering, LangChain, or anything AI**  
 📫 Reach me at **1904krishna@gmail.com** or via [LinkedIn](https://www.linkedin.com/in/krishna-sharma-8176111b3/)  
 📌 Fun fact: I can explain AI to a 5-year-old or a PhD—your choice! 
-👨‍🎓 MSc Artificial Intelligence @ Teesside University (UK)
 
 ---
 
