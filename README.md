@@ -28,18 +28,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Krishna-1996&show_icons=true&theme=radical" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Krishna-1996&theme=radical" />
-</p>
-
----
-
 ### 🔗 Connect with Me
 
 <p>
