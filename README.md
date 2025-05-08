@@ -13,14 +13,14 @@
 🤝 I’m looking to collaborate on **real-world AI projects, LLM tools, and NLP applications**  
 💬 Ask me about **Python, TensorFlow, Prompt Engineering, LangChain, or anything AI**  
 📫 Reach me at **1904krishna@gmail.com** or via [LinkedIn](https://www.linkedin.com/in/krishna-sharma-8176111b3/)  
-📌 Fun fact: [Pick one from below or suggest your own!]  
+📌 Fun fact: I can explain AI to a 5-year-old or a PhD—your choice! 
 👨‍🎓 MSc Artificial Intelligence @ Teesside University (UK)
 
 ---
 
 ### 🧠 Key Skills & Tools
 
-- **Languages**: Python, C++, SQL  
+- **Languages**: Python, SQL  
 - **AI/ML**: TensorFlow, PyTorch, Keras, OpenCV, HuggingFace  
 - **NLP & LLMs**: LangChain, OpenAI, Transformers, Prompt Engineering  
 - **Tools**: Jupyter, VS Code, Git, Google Colab, REST APIs, Streamlit  
@@ -31,11 +31,11 @@
 ### 📊 GitHub Stats
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Krishna-1996&show_icons=true&theme=radical" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Krishna-1996&theme=radical" />
 </p>
 
 ---
@@ -55,8 +55,8 @@
 
 ### 📌 Featured Projects
 
-- 🎯 [Real-time IPL Match Predictor](https://github.com/your-github-username/ipl-match-prediction)
-- 🧭 [Maze Solver using RL](https://github.com/your-github-username/maze-pathfinder)
+- 🎯 [Real-time IPL Match Predictor](https://github.com/Krishna-1996/Machine_Learning_Projects/blob/main/1.%20IPL%20Score%20Prediction/README.md)
+- 🧭 [Maze Solver using RL](https://github.com/Krishna-1996/Machine_Learning_Projects/blob/main/3.%20Efficient_Maze_Pathfinding_Under_Obstacles/README.md)
 
 ---
 
