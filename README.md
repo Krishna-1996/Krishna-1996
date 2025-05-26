@@ -14,7 +14,7 @@
 🤝 I’m looking to collaborate on **real-world AI projects, LLM tools, and NLP applications**  
 💬 Ask me about **Python, TensorFlow, Prompt Engineering, LangChain, or anything AI**  
 📫 Reach me at **1904krishna@gmail.com** or via [LinkedIn](https://www.linkedin.com/in/krishna-sharma-8176111b3/)  
-📌 Fun fact: I can explain AI to a 5-year-old or a PhD—your choice!  
+📌 Fun fact: **I can explain AI to a 5-year-old or a PhD** - your choice!  
 
 ---
 
