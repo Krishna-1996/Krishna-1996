@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krishna Sharma</h1>
-<h3 align="center">AI Enthusiast | NLP Developer | LLM Engineer | ML Engineer based in the UK 🇬🇧</h3>
+<h3 align="center">Data Analytics | Python Developer | AI Enthusiast | NLP Developer | LLM Engineer | ML Engineer based in the UK 🇬🇧</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="profile view count" />
