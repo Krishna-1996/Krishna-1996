@@ -43,9 +43,9 @@
 
 ### 📌 Featured Projects
 
+- 🤖 [The GARGI (End-to-End Project)](https://github.com/Krishna-1996/Machine_Learning_Projects/blob/main/7.%20GARGI%20%E2%80%93%20Guided%20AI%20for%20Real-world%20Grammar%20%26%20Interaction/README.md)
 - 🎯 [Real-time IPL Match Predictor](https://github.com/Krishna-1996/Machine_Learning_Projects/blob/main/1.%20IPL%20Score%20Prediction/README.md)
 - 🧭 [Maze Solver using RL](https://github.com/Krishna-1996/Machine_Learning_Projects/blob/main/3.%20Efficient_Maze_Pathfinding_Under_Obstacles/README.md)
-- 🤖 [The GARGI (End-to-End Project)](https://github.com/Krishna-1996/Machine_Learning_Projects/blob/main/7.%20GARGI%20%E2%80%93%20Guided%20AI%20for%20Real-world%20Grammar%20%26%20Interaction/README.md)
 
 ---
 
